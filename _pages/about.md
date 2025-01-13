@@ -36,7 +36,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 **Shuofei Qiao**, Runnan Fang, Zhisong Qiu, Xiaobin Wang, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
 
-[**Project**](https://zjunlp.github.io/project/WorFBench/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://zjunlp.github.io/project/WorFBench/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - TL;DR: A unified agentic workflow generation benchmark with multi-faceted scenarios and intricate graph workflow structures.
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/WorfBench)](https://github.com/zjunlp/WorfBench) 🌟
@@ -99,8 +99,8 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 - TL;DR: A survey for language model reasoning with prompting.
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/Prompt4ReasoningPapers)](https://github.com/zjunlp/Prompt4ReasoningPapers) 🌟
-</div>
-</div>
+  </div>
+  </div>
   
 - `EMNLP 2024 findings` [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017). Mengru Wang, Yunzhi Yao, Ziwen Xu, **Shuofei Qiao**, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.
 - `KnowledgeNLP@ACL 2024` [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101). Yuqi Zhu, **Shuofei Qiao**, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. **Best Paper Award.**
@@ -110,8 +110,8 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 ## 🔧Projects
 
-- ``EMNLP 2022 Demo`` [DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population](https://arxiv.org/abs/2201.03335). [Github](https://github.com/zjunlp/deepke).
-- ``ACL 2024 Demo`` [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/abs/2402.03049). [Github](https://github.com/zjunlp/EasyInstruct).
+- ``EMNLP 2022 Demo`` [DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population](https://arxiv.org/abs/2201.03335). Github Stars: [![](https://img.shields.io/github/stars/zjunlp/DeepKE)](https://github.com/zjunlp/DeepKE) 🌟
+- ``ACL 2024 Demo`` [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/abs/2402.03049). Github Stars: [![](https://img.shields.io/github/stars/zjunlp/EasyInstruct)](https://github.com/zjunlp/EasyInstruct) 🌟
 
 # 🎖 Honors and Awards
 
