@@ -99,9 +99,9 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 - TL;DR: A survey for language model reasoning with prompting.
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/Prompt4ReasoningPapers)](https://github.com/zjunlp/Prompt4ReasoningPapers) 🌟
-  </div>
-  </div>
-  
+</div>
+</div>
+
 - `EMNLP 2024 findings` [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017). Mengru Wang, Yunzhi Yao, Ziwen Xu, **Shuofei Qiao**, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.
 - `KnowledgeNLP@ACL 2024` [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101). Yuqi Zhu, **Shuofei Qiao**, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. **Best Paper Award.**
 - `ISWC 2024` [InstructIE: A Bilingual Instruction-based Information Extraction Dataset](https://arxiv.org/abs/2305.11527). Honghao Gui, **Shuofei Qiao**, Jintian Zhang, Hongbin Ye, Mengshu Sun, Lei Liang, Jeff Z. Pan, Huajun Chen, Ningyu Zhang.
