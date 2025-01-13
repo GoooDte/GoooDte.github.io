@@ -39,11 +39,9 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 [**Project**](https://zjunlp.github.io/project/WorFBench/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - TL;DR: A unified agentic workflow generation benchmark with multi-faceted scenarios and intricate graph workflow structures.
-
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/WorfBench)](https://github.com/zjunlp/WorfBench) 🌟
-  
-  </div>
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/wkm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,12 +52,10 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 [**Project Page**](https://zjunlp.github.io/project/WKM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- TL;DR: We introduce parametric World Knowledge Model (WKM) which provides global prior task knowledge and local dynamic state knowledge to facilitate agent planning.s.
-
+- TL;DR: We introduce parametric World Knowledge Model (WKM) which provides global prior task knowledge and local dynamic state knowledge to facilitate agent planning.
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/WKM)](https://github.com/zjunlp/WKM) 🌟
-  
-  </div>
-  </div>
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/autoact.png' alt="sym" width="100%"></div></div>
@@ -72,11 +68,9 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 [**Project Page**](https://zjunlp.github.io/project/AutoAct/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - TL;DR:  We introduce AutoAct, an automatic agent learning framework for QA that does not rely on large-scale annotated data and synthetic trajectories from closed-source models.
-
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/AutoAct)](https://github.com/zjunlp/AutoAct) 🌟
-  
-  </div>
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/trice.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,11 +83,9 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 [**Project Page**](https://zjunlp.github.io/project/TRICE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - TL;DR: We propose an approach to learn through feedback derived from tool execution, thereby learning when and how  to use tools effectively.
-
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/TRICE)](https://github.com/zjunlp/TRICE) 🌟
-  
-  </div>
-  </div>
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
@@ -106,20 +98,14 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 [**Paper List**](https://github.com/zjunlp/Prompt4ReasoningPapers) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - TL;DR: A survey for language model reasoning with prompting.
-
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/Prompt4ReasoningPapers)](https://github.com/zjunlp/Prompt4ReasoningPapers) 🌟
-  
-  </div>
-  </div>
+</div>
+</div>
   
 - `EMNLP 2024 findings` [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017). Mengru Wang, Yunzhi Yao, Ziwen Xu, **Shuofei Qiao**, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.
-
 - `KnowledgeNLP@ACL 2024` [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101). Yuqi Zhu, **Shuofei Qiao**, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. **Best Paper Award.**
-
 - `ISWC 2024` [InstructIE: A Bilingual Instruction-based Information Extraction Dataset](https://arxiv.org/abs/2305.11527). Honghao Gui, **Shuofei Qiao**, Jintian Zhang, Hongbin Ye, Mengshu Sun, Lei Liang, Jeff Z. Pan, Huajun Chen, Ningyu Zhang.
-
 - `IJCAI 2023` [One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER](https://arxiv.org/abs/2301.10410). Xiang Chen, Lei Li, **Shuofei Qiao**, Ningyu Zhang, Chuanqi Tan, Yong Jiang, Fei Huang, Huajun Chen.
-
 - `WWWJ` [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168). Yuqi Zhu, Xiaohan Wang, Jing Chen, **Shuofei Qiao**, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.
 
 ## 🔧Projects
