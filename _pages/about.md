@@ -110,8 +110,8 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 ## 🔧Projects
 
-- `EMNLP 2022 Demo` [DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population](https://arxiv.org/abs/2201.03335). [Github](https://github.com/zjunlp/deepke).
-- `ACL 2024 Demo` [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/abs/2402.03049). [Github](https://github.com/zjunlp/EasyInstruct).
+- ``EMNLP 2022 Demo`` [DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population](https://arxiv.org/abs/2201.03335). [Github](https://github.com/zjunlp/deepke).
+- ``ACL 2024 Demo`` [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/abs/2402.03049). [Github](https://github.com/zjunlp/EasyInstruct).
 
 # 🎖 Honors and Awards
 
