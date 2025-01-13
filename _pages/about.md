@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am also interning at Alibaba Tongyi Lab (DAMO Academy), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on, Language Model Reasoning and Planning, Large Language Model Agents, and their applications.
+I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am also interning at Alibaba Tongyi Lab (DAMO Academy), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on Language Model Reasoning and Planning, Large Language Model Agents, and their applications.
 
 
 
