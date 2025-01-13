@@ -102,11 +102,11 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 </div>
 </div>
   
-- ``EMNLP 2024 findings`` [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017). Mengru Wang, Yunzhi Yao, Ziwen Xu, **Shuofei Qiao**, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.
-- ``KnowledgeNLP@ACL 2024`` [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101). Yuqi Zhu, **Shuofei Qiao**, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. **Best Paper Award.**
-- ``ISWC 2024`` [InstructIE: A Bilingual Instruction-based Information Extraction Dataset](https://arxiv.org/abs/2305.11527). Honghao Gui, **Shuofei Qiao**, Jintian Zhang, Hongbin Ye, Mengshu Sun, Lei Liang, Jeff Z. Pan, Huajun Chen, Ningyu Zhang.
-- ``IJCAI 2023`` [One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER](https://arxiv.org/abs/2301.10410). Xiang Chen, Lei Li, **Shuofei Qiao**, Ningyu Zhang, Chuanqi Tan, Yong Jiang, Fei Huang, Huajun Chen.
-- ``WWWJ`` [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168). Yuqi Zhu, Xiaohan Wang, Jing Chen, **Shuofei Qiao**, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.
+- `EMNLP 2024 findings` [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017). Mengru Wang, Yunzhi Yao, Ziwen Xu, **Shuofei Qiao**, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.
+- `KnowledgeNLP@ACL 2024` [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101). Yuqi Zhu, **Shuofei Qiao**, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. **Best Paper Award.**
+- `ISWC 2024` [InstructIE: A Bilingual Instruction-based Information Extraction Dataset](https://arxiv.org/abs/2305.11527). Honghao Gui, **Shuofei Qiao**, Jintian Zhang, Hongbin Ye, Mengshu Sun, Lei Liang, Jeff Z. Pan, Huajun Chen, Ningyu Zhang.
+- `IJCAI 2023` [One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER](https://arxiv.org/abs/2301.10410). Xiang Chen, Lei Li, **Shuofei Qiao**, Ningyu Zhang, Chuanqi Tan, Yong Jiang, Fei Huang, Huajun Chen.
+- `WWWJ` [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168). Yuqi Zhu, Xiaohan Wang, Jing Chen, **Shuofei Qiao**, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.
 
 ## 🔧Projects
 
@@ -132,3 +132,9 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 # 💻 Internships
 - *2024.07 - present,* Alibaba Tongyi Lab (DAMO Academy), China.
 - *2023.07 - 2024.07*, Alibaba TaoTian Group, China.
+
+# ✍️ Academic Service
+- Conference Reviewer: ICLR, NeurIPS, ACL ARR, ACMMM.
+- Conference Volunteer: ISWC 2023.
+
+<a href="https://info.flagcounter.com/UsPL"><img src="https://s01.flagcounter.com/count/UsPL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
