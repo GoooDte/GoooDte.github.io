@@ -23,14 +23,16 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025.
 - *2024.12*: Our survey paper on [MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) has been released!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024. 
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by EMNLP 2024 findings.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/worfbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/worfbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Benchmarking Agentic Workflow Generation](https://arxiv.org/abs/2410.07869)
 
